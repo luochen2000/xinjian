@@ -1,0 +1,23 @@
+index.html
+  0041461b15fecf13 81-106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.14",
+  "base_commit_sha": "f37bb516ea63dc567fcb1d493b7abc9f0de251ec",
+  "prompts": {
+    "0041461b15fecf13": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f7daf1b7-41ae-4455-833a-b1d489140cd2",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "yicheng <yicheng@cvte.com>",
+      "messages": [],
+      "total_additions": 26,
+      "total_deletions": 3,
+      "accepted_lines": 26,
+      "overriden_lines": 0
+    }
+  }
+}
